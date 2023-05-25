@@ -1,0 +1,103 @@
+
+.header {
+    max-width: 100%;
+}
+
+.header-title,
+.header-content,
+.purposes {
+   max-width: 100%;
+
+}
+
+.learn-box {
+    display: block !important;
+    width: 100%;
+}
+
+.learn-items-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.learn-item {
+    padding-top: 10%;
+    width: 50% !important;
+}
+
+.solution-items-box {
+    max-width: 100%;
+    display: flex;
+}
+
+.solution-item {
+    width: 50%;
+}
+
+.segmentations {
+    width: 100%;
+    display: block !important;
+}
+
+.seg-card {
+    width: 90%;
+    padding-top: 8%;
+}
+
+.seg-card:nth-child(1) {
+    border-right: none;
+}
+
+.help {
+    max-width: 100%;
+    display: block !important;
+}
+
+/* .section-info{
+    display: block !important;
+    width: 50%;
+} */
+.help-info-box {max-width: 100%; 
+    display: block !important;
+}
+
+.infos {
+    max-width: 100%;
+    display: block;
+}
+.info-item {
+    width: 100%;
+}
+
+.bg-img {
+    display: block;
+    width: 50%;
+    height: 50%;
+    background-image: url(./basic_hero_ui_ru@2x.webp);
+}
+
+.connect-title {
+    width: 100%;
+
+}
+
+
+.footer-items {
+    display: flex !important;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.footer-item-box {
+    max-width: 50%;
+    padding-left: 25px !important;
+}
+
+.workgroup {
+    max-width: 100%;
+}
+
+.workgroup .section-title h2 {
+    padding: 0;
+    margin: 0;
+}

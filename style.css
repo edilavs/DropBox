@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header,
+.purposes,.workgroup {
+    background-color: #1e1919;
+    width: 100%;
+}
+
+.help {
+    width: 100%;
+}
+
+.header-title {
+    margin: 0 auto;
+    max-width: 50%;
+    letter-spacing: 2.5px;
+}
+
+.header-content {
+    margin: 0 auto;
+    max-width: 52%;
+}
+
+.btn-primary {
+    border-radius: 0;
+}
+
+.btn-primary:hover {
+    background-color: rgba(147, 214, 255, 0.683);
+    border: 1px solid;
+}
+
+.dwg-media-video--object-fit-cover {
+    max-width: 1344px;
+    object-fit: cover;
+}
+
+.dwg-media-video {
+    height: 60%;
+    width: 50%;
+}
+
+.learn-header,
+.solution-title,
+.storage {
+    letter-spacing: 1.4px;
+}
+
+.learn-items-box {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.learn-item {
+    width: 20%;
+}
+
+.solutions {
+    width: 100%;
+}
+
+.solution-items-box {
+    width: 80%;
+    margin: 0 auto;
+    margin-left: 15%;
+}
+
+.more:hover .more-icon {
+    margin-left: 5%;
+}
+
+.segmentations {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.seg-card {
+    width: 40%;
+}
+
+.seg-card:nth-child(1) {
+    border-right: 1px solid #fff;
+}
+
+.seg-card-img img {
+    width: 100%;
+}
+
+.seg-btn button {
+    width: 100%;
+}
+
+/* 
+.split-line {
+    width: 10%;
+    height: 10%;
+    background-color: aqua;
+    color: red;
+    top: 6px;
+    left: 4%;
+    z-index: 1;
+} */
+.help {
+    background-color: #f7f5f2;
+}
+
+.help-info-box {
+    width: 100%;
+}
+
+.infos {
+    width: 50%;
+}
+
+.info-item {
+    padding: 4%;
+    border-bottom: 1px solid #a8a8a8;
+}
+
+.info-item a {
+    text-decoration: none;
+}
+
+.bg-img {
+    width: 50%;
+    background-image: url(./basic_hero_ui_ru@2x.webp);
+}
+
+.section-about a:hover {
+    text-decoration: none;
+}
+
+.connect-title {
+    width: 40%;
+    letter-spacing: 1.5px;
+    margin: 0 auto;
+}
+ /* Make the image fully responsive */
+ .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  .car-img{
+    width: 20%;
+    height: 20% !important;
+  }
+  .footer-item-box{
+    width: 15%;
+  }
+  .footer-items{
+    width: 80%;
+    margin: 0 auto;
+  }
+  ul li a{
+    text-decoration: none;
+  }
+  ul li:hover a{
+    text-decoration: underline;
+  }
+  .socials{
+    margin-top: 5%;
+    margin-left: 9%;
+    color: #fff;
+  }
+  .socials i:hover {
+    background-color: #868686;
+  }
+  footer{
+    background-color: #000;
+  }
+  .section-about{
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }

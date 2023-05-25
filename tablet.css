@@ -1,0 +1,83 @@
+*{
+    overflow: hidden;
+}
+.header{
+    max-width: 100%;
+}
+.header-title,
+.header-content,
+.purposes{
+    max-width: 100%;
+   
+}
+.learn-items-box {
+    display: block !important;
+    width: 100%;
+}
+
+.learn-item {
+    padding-top: 10%;
+    width: 100% !important;
+}
+.solution-items-box {
+    width: 100%;
+    display: block;
+}
+.solution-item{
+    width: 80%;
+    padding: 5%;
+}
+.segmentations{
+    width: 100%;
+    display: block !important;
+}
+.seg-card{
+    width: 90%;
+    padding-top: 8%;
+}
+.seg-card:nth-child(1) {
+    border-right: none;
+}
+.help{
+    width: 100%;
+    display: block !important;
+}
+/* .section-info{
+    display: block !important;
+    width: 50%;
+} */
+.help-info-box{
+    width: 100%;
+    display: block !important;
+}
+.infos
+{
+    width: 100%;
+    display: block ;
+}
+.bg-img{
+    display: block;
+    width: 50%;
+    height: 50%;
+    background-image: url(./basic_hero_ui_ru@2x.webp);
+}
+.connect-title{
+    width: 100%;
+
+}
+footer,.footer-items {
+    display: block !important;
+    width: 100%;
+}
+.footer-item{
+    width: 100%;
+    padding-top: 5%;
+}
+.workgroup{
+    width: 100%;
+}
+.workgroup .section-title h2{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
